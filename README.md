@@ -11,6 +11,8 @@ Become An OCI Foundations Associate (2025) https://catalog-education.oracle.com/
 
 Oracle Data Platform 2025 Foundations Associate https://catalog-education.oracle.com/ords/certview/sharebadge?id=0609F2A6CDCE2F76BBA22B21988B06A94D9E0F1DB38DFD9B10C23FAFFD58C7D0
 
+Become An OCI AI Foundations Associate (2025)https://catalog-education.oracle.com/pls/certview/sharebadge?id=7DC625B008D237CD91BC6DBB982EE18B1B7FA1435D3223FBE142369D5576A092
+
 🛠️ Skillsets -
 HTML, CSS
 Web Design
